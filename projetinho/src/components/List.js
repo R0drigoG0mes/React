@@ -13,7 +13,10 @@ function List(){
                 <li>Item 6</li>
                 <li>Item 7</li>
                 <li>Item 8</li>
-                <Item marca="Nike"/>
+                <Item marca="Teste" lançamento={1924}/>
+                <Item marca="Ferrari" lançamento={1824}/>
+                <Item marca="Nike" lançamento={1924}/>
+                <Item marca="Nike" lançamento={1924}/>
             </ul>
         </>
     )
